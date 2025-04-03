@@ -22,4 +22,6 @@ In most cases this will result in moving the files you've chosen to the ```~/.co
 Your files are not deleted, only moved. 
 
 If this happens, run *Cormorant* again with ```no WMCLass``` **checked**
+
+Doesn't work with Arduino IDE
 ![Cormorant](https://github.com/user-attachments/assets/6fc231d0-f42a-4237-9a61-9b00a0b0c21e)
