@@ -43,7 +43,7 @@ if [[ "${blabla[5]}" == "FALSE" ]]; then
 fi
 
 # If copy option was chosen
-if [[ "${blabla[5]}" == "TRUE"]]; then
+if [[ "${blabla[5]}" == "TRUE" ]]; then
     cp "$appImagePath" "$HOME/.cormorant/"
     cp "$iconPath" "$HOME/.cormorant/"
 fi
